@@ -1,0 +1,11 @@
+PATH="$PATH:/usr/X11R6/bin:/usr/sbin:/sbin:/opt/bin:.:/users/wim/.cabal/bin:/users/wim/bin:/usr/local/cuda/bin"
+
+export DYLD_LIBRARY_PATH=/usr/local/cuda/lib:$DYLD_LIBRARY_PATH
+
+export OPENCL_DIR=$HOME/SoC_Research/OpenCL
+export OPENCL_GPU=`$OPENCL_DIR/bin/test_gpu.pl`
+export NVSDKCUDA_ROOT="/Developer/GPU\ Computing/"
+export AMDAPPSDKROOT=$OPENCL_DIR/AMD-APP-SDK-v2.4-lnx64
+
+export PYTHONPATH=$PYTHONPATH:$OPENCL_DIR
+export PATH=/opt/local/bin:/opt/local/sbin:$OPENCL_DIR/bin:$PATH

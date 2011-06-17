@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/SoC/!svn/ver/4911/Wim/OpenCL/MatrixAccumulation
+END
+matacc_performance_9600M_GT_fin_corr12.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/SoC/!svn/ver/4810/Wim/OpenCL/MatrixAccumulation/matacc_performance_9600M_GT_fin_corr12.txt
+END
+job.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/SoC/!svn/ver/4810/Wim/OpenCL/MatrixAccumulation/job.pl
+END
+matacc_performance_GT120.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/SoC/!svn/ver/4802/Wim/OpenCL/MatrixAccumulation/matacc_performance_GT120.txt
+END
+matacc.cl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SoC/!svn/ver/4911/Wim/OpenCL/MatrixAccumulation/matacc.cl
+END
+matacc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SoC/!svn/ver/4799/Wim/OpenCL/MatrixAccumulation/matacc.txt
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/SoC/!svn/ver/4802/Wim/OpenCL/MatrixAccumulation/SConstruct
+END
+matacc_performance.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/SoC/!svn/ver/4802/Wim/OpenCL/MatrixAccumulation/matacc_performance.txt
+END
+matacc_performance_9600M_GT_fin_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/SoC/!svn/ver/4806/Wim/OpenCL/MatrixAccumulation/matacc_performance_9600M_GT_fin_1.txt
+END
+matacc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/SoC/!svn/ver/4809/Wim/OpenCL/MatrixAccumulation/matacc.cc
+END
+matacc_performance_9600M_GT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/SoC/!svn/ver/4801/Wim/OpenCL/MatrixAccumulation/matacc_performance_9600M_GT.txt
+END
+matacc_performance_9600M_GT_fin_extra1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/SoC/!svn/ver/4807/Wim/OpenCL/MatrixAccumulation/matacc_performance_9600M_GT_fin_extra1.txt
+END
+matacc_performance_9600M_GT_fin_extra2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/SoC/!svn/ver/4809/Wim/OpenCL/MatrixAccumulation/matacc_performance_9600M_GT_fin_extra2.txt
+END
+matacc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/SoC/!svn/ver/4799/Wim/OpenCL/MatrixAccumulation/matacc.h
+END

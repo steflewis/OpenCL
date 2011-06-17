@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/SoC/!svn/ver/4859/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example
+END
+hello_kernel.cl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/SoC/!svn/ver/4859/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/hello_kernel.cl
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/SoC/!svn/ver/4782/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/hello.c
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/SoC/!svn/ver/4799/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/SConstruct
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/SoC/!svn/ver/4859/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/hello.cc
+END
+cl_errors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/SoC/!svn/ver/4782/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/cl_errors.txt
+END
+create_pp_map.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/SoC/!svn/ver/4782/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/create_pp_map.pl
+END
+hello.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/SoC/!svn/ver/4799/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/hello.h
+END
+test_alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/SoC/!svn/ver/4782/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/test_alloc.c
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/SoC/!svn/ver/4782/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/ReadMe.txt
+END
+test_alloc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/SoC/!svn/ver/4782/Wim/OpenCL/HelloWorld/Apple/OpenCL_Hello_World_Example/test_alloc.cc
+END

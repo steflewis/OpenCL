@@ -1,0 +1,13 @@
+lan=ARGUMENTS.get('lang','C++')
+dev=ARGUMENTS.get('dev','GPU')
+
+if lan=='C':
+    sources=['hello.c']
+    env = Environment( CC = 'gcc', CFLAGS = ['-Wall','-g','-DOSX','-D'+dev])
+else:
+    sources=['hello.cc','../../../DeviceInfo.cc']
+    env = Environment( CXX = 'g++', CXXFLAGS = ['-Wall','-g','-DOSX','-D'+dev])
+    
+env['FRAMEWORKS'] = ['OpenCL']
+env.Program('hello',sources,LIBS=[],CPPPATH=['/Users/wim/SoC_Research/OpenCL'])
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/SoC/!svn/ver/4908/Wim/OpenCL/HelloWorld/AMD
+END
+hello_kernel.cl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/SoC/!svn/ver/4782/Wim/OpenCL/HelloWorld/AMD/hello_kernel.cl
+END
+cl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/SoC/!svn/ver/4782/Wim/OpenCL/HelloWorld/AMD/cl.hpp
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/SoC/!svn/ver/4824/Wim/OpenCL/HelloWorld/AMD/SConstruct
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/SoC/!svn/ver/4908/Wim/OpenCL/HelloWorld/AMD/hello.cc
+END
+hello.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/SoC/!svn/ver/4782/Wim/OpenCL/HelloWorld/AMD/hello.h
+END

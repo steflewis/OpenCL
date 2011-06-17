@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/SoC/!svn/ver/4875/Wim/OpenCL/bin
+END
+oclrun
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/SoC/!svn/ver/4828/Wim/OpenCL/bin/oclrun
+END
+test_gpu.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/SoC/!svn/ver/4875/Wim/OpenCL/bin/test_gpu.pl
+END

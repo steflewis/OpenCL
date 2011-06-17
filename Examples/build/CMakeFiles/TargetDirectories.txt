@@ -1,0 +1,2 @@
+/home/Stefanie/GPU_Computing/OpenCL_Tutorials/part1.5/build/CMakeFiles/part1.dir
+/home/Stefanie/GPU_Computing/OpenCL_Tutorials/part1.5/build/CMakeFiles/part1.x.dir

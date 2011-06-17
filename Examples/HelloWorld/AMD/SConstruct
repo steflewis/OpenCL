@@ -1,0 +1,31 @@
+import os
+import commands
+
+if commands.getoutput("uname") == "Darwin":
+	OSX=1
+	OSFLAG='-DOSX'
+else:
+	OSX=0
+	OSFLAG='-D__LINUX__'
+
+OPENCL_DIR=os.environ['OPENCL_DIR']
+AMD_SDK_PATH=os.environ['AMDAPPSDKROOT']
+os=ARGUMENTS.get('os','OSX')
+
+dev=ARGUMENTS.get('dev','GPU')
+DEVFLAG='-D'+dev
+
+
+sources=Split("""
+hello.cc
+""");
+
+env = Environment( CXX = 'g++', CXXFLAGS = ['--verbose','-Wall','-g',OSFLAG,DEVFLAG])
+if OSX==1:
+	env['FRAMEWORKS'] = ['OpenCL']
+else:
+	env['LIBS']=['OpenCL']
+	env['LIBPATH']=[AMD_SDK_PATH+'/lib/x86_64']
+	env['CPPPATH']=[AMD_SDK_PATH+'/include']
+env.Program('hello',sources)
+

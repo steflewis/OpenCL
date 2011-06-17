@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/part1.x.dir/main.cpp.o  -o part1.x -rdynamic libpart1.a -lOpenCL 

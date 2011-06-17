@@ -1,0 +1,16 @@
+#!/usr/bin/perl
+
+use Getopt::Std;
+my %opts;
+getopts('vp:',\%opts);
+my $v=$opts{'v'}?1:0;
+my $p=$opts{'p'} || 'NVIDIA';
+my $exe=join(' ',@ARGV);
+my $LD_LIBRARY_PATH=$ENV{'AMDAPPSDKROOT'}.'/lib/x86_64';
+if ($p eq 'AMD') {
+	print "LD_LIBRARY_PATH=$LD_LIBRARY_PATH $exe\n" if $v;
+	system("LD_LIBRARY_PATH=$LD_LIBRARY_PATH $exe");
+} else {
+    print "$exe\n" if $v;
+	system($exe);
+}
